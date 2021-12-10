@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/77b070d5-6aa9-48be-9585-334c7ae98c93.svg)](https://wakatime.com/@77b070d5-6aa9-48be-9585-334c7ae98c93)
 
-![](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=0d1117&text_color=b4bbc1&icon_color=8b949e&title_color=c9d1d9&show_icons=true&border_color=30363d&&layout=compact&count_private=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=0d1117&text_color=b4bbc1&icon_color=8b949e&title_color=c9d1d9&show_icons=true&border_color=30363d&&layout=compact&count_private=true&include_all_commits=true&hide=prs,contribs)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedhakem&bg_color=0d1117&text_color=b4bbc1&icon_color=8b949e&title_color=c9d1d9&show_icons=true&border_color=30363d&layout=compact&langs_count=10)
 
