@@ -6,6 +6,8 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedhakem&bg_color=0d1117&text_color=b4bbc1&icon_color=8b949e&title_color=c9d1d9&show_icons=true&border_color=30363d&&layout=compact)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MohamedHakem)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Add the WakaTime badge and the stats to your profile! 
 - Create a repo named username/username 
