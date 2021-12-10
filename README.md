@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamedhakem)](https://github.com/anuraghazra/github-readme-stats) 
 
 Add the WakaTime badge and the stats to your profile! 
-1- Create a repo named username/username 
-2- Go to [@github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 
-3- Go to [@wakaTime](https://github.com/wakatime) to add the badge to your profile.
+- Create a repo named username/username 
+- Go to [@github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 
+- Go to [@wakaTime](https://github.com/wakatime) to add the badge to your profile.
 
