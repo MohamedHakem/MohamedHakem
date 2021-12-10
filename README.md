@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/77b070d5-6aa9-48be-9585-334c7ae98c93.svg)](https://wakatime.com/@77b070d5-6aa9-48be-9585-334c7ae98c93)
 
-![](https://github-readme-stats.vercel.app/api?username=Mohamedhakem&bg_color=0d1117&text_color=c9d1d9&icon_color=8b949e&title_color=8b949e&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Mohamedhakem&bg_color=0d1117&text_color=c9d1d9&icon_color=8b949e&title_color=c9d1d9&show_icons=true)
 
 Add the WakaTime badge and the stats to your profile! 
 - Create a repo named username/username 
