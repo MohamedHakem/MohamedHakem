@@ -9,6 +9,5 @@
 
 Add the WakaTime badge and the stats to your profile! 
 - Create a repo named username/username 
-- Go to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
-- Go to [wakaTime](https://github.com/wakatime).
+- Go to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
