@@ -9,7 +9,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MohamedHakem)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Add the WakaTime badge and the stats to your profile! 
+Add stats to your profile: 
 - Create a repo named username/username 
 - Go to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
