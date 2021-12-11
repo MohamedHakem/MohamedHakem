@@ -6,7 +6,7 @@
 <a href="https://app.daily.dev/mohamedhakem">
    <img src="https://api.daily.dev/devcards/6383c6c5e45d4792b8560faf61db4477.png?r=3ct" 
      align="right"
-     width="300" 
+     width="332" 
      alt="Mohamed Hakem's Dev Card"/>
 </a>
  
