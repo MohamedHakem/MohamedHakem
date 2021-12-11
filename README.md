@@ -37,6 +37,8 @@
 
 *Note*: Top languages is only a metric of the languages my public <br/>code consists of and doesn't reflect experience or skill level.
 
+<br/>
+
 [![wakatime](https://wakatime.com/badge/user/77b070d5-6aa9-48be-9585-334c7ae98c93.svg)](https://wakatime.com/@77b070d5-6aa9-48be-9585-334c7ae98c93)
 
 <br/>
