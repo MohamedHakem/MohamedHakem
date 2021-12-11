@@ -19,29 +19,26 @@
 </a>
 
 
-<div align="left">
 <a href="https://app.daily.dev/mohamedhakem">
    <img src="https://github-readme-stats.vercel.app/api?username=MohamedHakem&bg_color=0d1117&text_color=b4bbc1&icon_color=8b949e&title_color=c9d1d9&show_icons=true&border_color=30363d&&layout=compact&count_private=true&include_all_commits=true&hide=issues" 
      width="450"
-     alt="Mohamed Hakem's Dev Card"/>
-</a><br/>
+     alt="Mohamed Hakem's Stats"/>
+</a>
 <a href="https://app.daily.dev/mohamedhakem">
    <img src="http://github-readme-streak-stats.herokuapp.com?user=MohamedHakem&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=ABB2BA&fire=ABB2BA&currStreakLabel=ABB2BA&sideLabels=ABB2BA&sideNums=ABB2BA&dates=ABB2BA&stroke=ABB2BA&currStreakNum=ABB2BA)](https://git.io/streak-stats" 
      width="450"
      padding="10"
-     alt="Mohamed Hakem's Dev Card"/>
+     alt="Mohamed Hakem's Streak Stats"/>
 </a>
 
 <br/> 
-<br/>
-<br/>
+
 
 <a href="https://app.daily.dev/mohamedhakem">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedhakem&bg_color=0d1117&text_color=b4bbc1&icon_color=8b949e&title_color=c9d1d9&show_icons=true&border_color=30363d&layout=compact&langs_count=10" 
      width="450"
-     alt="Mohamed Hakem's Dev Card"/>
+     alt="Mohamed Hakem's Top Languages"/>
 </a>
-</div>
 
 *Note*: Top languages is only a metric of the languages my public <br/>code consists of and doesn't reflect experience or skill level.
 
