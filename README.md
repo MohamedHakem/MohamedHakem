@@ -7,11 +7,15 @@
 
 <p  align="center"> 
 A React Developer from Cairo, Egypt. <br/><br/>
-</p>
-
+  
+<a href="https://wakatime.com/@77b070d5-6aa9-48be-9585-334c7ae98c93">
+    <img height="25" alt="wakatime" title="How much time I spent on coding" src="https://wakatime.com/badge/user/77b070d5-6aa9-48be-9585-334c7ae98c93.svg" />
+</a>
 
 <!-- <hr> -->
 
+<br/>
+<br/>
 <br/>
 <br/>
 <a href="https://app.daily.dev/mohamedhakem">
@@ -45,6 +49,12 @@ A React Developer from Cairo, Egypt. <br/><br/>
 
 <br/>
 
+  
+<!--
+[![wakatime](https://wakatime.com/badge/user/77b070d5-6aa9-48be-9585-334c7ae98c93.svg)](https://wakatime.com/@77b070d5-6aa9-48be-9585-334c7ae98c93)
+</p>
+-->
+
 <!--
 *Note*: Top languages is only a metric of the languages my public <br/>code consists of and doesn't reflect experience or skill level.
 -->
@@ -52,9 +62,11 @@ A React Developer from Cairo, Egypt. <br/><br/>
 <br/>
 <br/>
 
-[![wakatime](https://wakatime.com/badge/user/77b070d5-6aa9-48be-9585-334c7ae98c93.svg)](https://wakatime.com/@77b070d5-6aa9-48be-9585-334c7ae98c93)
 
+
+<!--
 <a href="https://twitter.com/mohamedhakem_se"><img width="128px" height="25px" alt="Twitter" title="Twitter" src="https://img.shields.io/twitter/follow/mohamedhakem_se?label=Twitter&style=social" /></a>
+--> 
 
 <br/>
 <br/>
