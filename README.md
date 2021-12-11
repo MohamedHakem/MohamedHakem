@@ -1,9 +1,6 @@
 ### Hi there 👋
-
-[![wakatime](https://wakatime.com/badge/user/77b070d5-6aa9-48be-9585-334c7ae98c93.svg)](https://wakatime.com/@77b070d5-6aa9-48be-9585-334c7ae98c93)
-
-
 <div align="left">
+[![wakatime](https://wakatime.com/badge/user/77b070d5-6aa9-48be-9585-334c7ae98c93.svg)](https://wakatime.com/@77b070d5-6aa9-48be-9585-334c7ae98c93)
  <a href="https://twitter.com/mohamedhakem_se">
     <img
       src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
