@@ -6,7 +6,7 @@
 <a href="https://app.daily.dev/mohamedhakem">
    <img src="https://api.daily.dev/devcards/6383c6c5e45d4792b8560faf61db4477.png?r=3ct" 
      align="right"
-     width="332" 
+     width="320" 
      alt="Mohamed Hakem's Dev Card"/>
 </a>
  
@@ -23,7 +23,6 @@
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MohamedHakem&bg_color=0d1117&text_color=b4bbc1&icon_color=8b949e&title_color=c9d1d9&show_icons=true&border_color=30363d&&layout=compact)
 -->
 
-Add stats to your profile: 
-- Create a repo named username/username 
-- Go to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+Add stats to your profile: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
 
