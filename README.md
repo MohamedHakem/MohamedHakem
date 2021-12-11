@@ -1,12 +1,15 @@
 <!-- ### Hi there ✋! -->
 
+<br/>
 
 <h3 align="center">
   Welcome to Mohamed Hakem's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<hr>
+<!-- <hr> -->
+<br/>
+<br/>
 <br/>
 <a href="https://app.daily.dev/mohamedhakem">
    <img src="https://api.daily.dev/devcards/6383c6c5e45d4792b8560faf61db4477.png?r=3ct" 
