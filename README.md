@@ -1,11 +1,14 @@
 <!-- ### Hi there ✋! -->
 
 
+<h1 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> I'm Mohamed Hakem
+</h1>
 
-<h3 align="center">
-  Welcome to Mohamed Hakem's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<p  align="center"> 
+A React Developer from Cairo, Egypt. <br/><br/>
+</p>
+
 
 <!-- <hr> -->
 
@@ -49,12 +52,14 @@
 
 [![wakatime](https://wakatime.com/badge/user/77b070d5-6aa9-48be-9585-334c7ae98c93.svg)](https://wakatime.com/@77b070d5-6aa9-48be-9585-334c7ae98c93)
 
-<br/>
+<a href="https://twitter.com/mohamedhakem_se"><img width="128px" height="25px" alt="Twitter" title="Twitter" src="https://img.shields.io/twitter/follow/mohamedhakem_se?label=Twitter&style=social" /></a>
+
 <br/>
 <br/>
 
+<!--
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mohamedhakem&bg_color=0D1117&color=ABB2BA&line=ABB2BA&area_color=ABB2BA&point=ABB2BA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+-->
 
 
 <!--
