@@ -1,6 +1,6 @@
 <!-- ### Hi there ✋! -->
 
-<br/>
+
 
 <h3 align="center">
   Welcome to Mohamed Hakem's profile!
@@ -8,7 +8,7 @@
 </h3>
 
 <!-- <hr> -->
-<br/>
+
 <br/>
 <br/>
 <a href="https://app.daily.dev/mohamedhakem">
@@ -39,6 +39,8 @@
      width="450"
      alt="Mohamed Hakem's Top Languages"/>
 </a>
+
+<br/>
 
 *Note*: Top languages is only a metric of the languages my public <br/>code consists of and doesn't reflect experience or skill level.
 
