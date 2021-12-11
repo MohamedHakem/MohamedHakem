@@ -39,7 +39,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/77b070d5-6aa9-48be-9585-334c7ae98c93.svg)](https://wakatime.com/@77b070d5-6aa9-48be-9585-334c7ae98c93)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mohamedhakem&bg_color=0D1117&color=ABB2BA&line=ABB2BA&area_color=ABB2BA&point=ABB2BA&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mohamedhakem&bg_color=0D1117&color=ABB2BA&line=ABB2BA&area_color=ABB2BA&point=ABB2BA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
