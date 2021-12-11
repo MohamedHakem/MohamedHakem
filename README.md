@@ -30,7 +30,12 @@
      width="450"
      padding="10"
      alt="Mohamed Hakem's Dev Card"/>
-</a><br/> 
+</a>
+
+<br/> 
+<br/>
+<br/>
+
 <a href="https://app.daily.dev/mohamedhakem">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedhakem&bg_color=0d1117&text_color=b4bbc1&icon_color=8b949e&title_color=c9d1d9&show_icons=true&border_color=30363d&layout=compact&langs_count=10" 
      width="450"
@@ -41,9 +46,11 @@
 *Note*: Top languages is only a metric of the languages my public <br/>code consists of and doesn't reflect experience or skill level.
 
 <br/>
+<br/>
 
 [![wakatime](https://wakatime.com/badge/user/77b070d5-6aa9-48be-9585-334c7ae98c93.svg)](https://wakatime.com/@77b070d5-6aa9-48be-9585-334c7ae98c93)
 
+<br/>
 <br/>
 <br/>
 
