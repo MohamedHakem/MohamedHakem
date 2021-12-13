@@ -1,16 +1,12 @@
 <!-- ### Hi there ✋! -->
 
-
-<h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> I'm Mohamed Hakem
-</h1>
-
-<p  align="center"> 
-A React Developer from Cairo, Egypt. <br/><br/>
-  
+<div align="center"> 
+<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> I'm Mohamed Hakem</h1>
+<p>A React Developer from Cairo, Egypt.</p> <br/>
 <a href="https://wakatime.com/@77b070d5-6aa9-48be-9585-334c7ae98c93">
-    <img height="25" alt="wakatime" title="How much time I spent on coding" src="https://wakatime.com/badge/user/77b070d5-6aa9-48be-9585-334c7ae98c93.svg" />
+  <img height="25" alt="wakatime" title="How much time I spent on coding" src="https://wakatime.com/badge/user/77b070d5-6aa9-48be-9585-334c7ae98c93.svg" />
 </a>
+</div>
 
 <!-- <hr> -->
 
