@@ -15,7 +15,7 @@
 <br/>
 <br/>
 <a href="https://app.daily.dev/mohamedhakem">
-    <img src="https://api.daily.dev/devcards/6383c6c5e45d4792b8560faf61db4477.png?r=lq7" 
+    <img src="https://api.daily.dev/devcards/6383c6c5e45d4792b8560faf61db4477.png?r=u9b" 
       align="right"
       width="310" 
       title="Mohamed Hakem's Dev Card"
