@@ -36,6 +36,9 @@
 
 <br/> 
 
+![Snake animation](https://github.com/MohamedHakem/MohamedHakem/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <a href="https://app.daily.dev/mohamedhakem">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedhakem&bg_color=0d1117&text_color=b4bbc1&icon_color=8b949e&title_color=c9d1d9&show_icons=true&border_color=30363d&layout=compact&langs_count=10" 
