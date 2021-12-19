@@ -37,16 +37,17 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img src="https://github-stats-teal.vercel.app/api?username=MohamedHakem&bg_color=0d1117&text_color=b4bbc1&icon_color=8b949e&title_color=c9d1d9&show_icons=true&border_color=30363d&&layout=compact&count_private=true&include_all_commits=true&hide=issues" 
-     width="450"
+     width="500"
      alt="Mohamed Hakem's Stats"/>
 </a>
  
 <br/>
 <br/>
+<br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MohamedHakem&bg_color=0d1117&text_color=b4bbc1&icon_color=8b949e&title_color=c9d1d9&show_icons=true&border_color=30363d&layout=compact&langs_count=10" 
-     width="450"
+     width="500"
      alt="Mohamed Hakem's wakatime stats"/>
 </a>
 <br/>
