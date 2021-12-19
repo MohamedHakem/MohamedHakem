@@ -13,7 +13,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
 <a href="https://app.daily.dev/mohamedhakem">
     <img src="https://api.daily.dev/devcards/6383c6c5e45d4792b8560faf61db4477.png?r=u9b" 
       align="right"
@@ -36,10 +35,6 @@
 
 <br/> 
 
-![Snake animation](https://github.com/MohamedHakem/MohamedHakem/blob/output/github-contribution-grid-snake.svg)
-
-
-
 <a href="https://app.daily.dev/mohamedhakem">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedhakem&bg_color=0d1117&text_color=b4bbc1&icon_color=8b949e&title_color=c9d1d9&show_icons=true&border_color=30363d&layout=compact&langs_count=10" 
      width="450"
@@ -47,6 +42,8 @@
 </a>
 
 <br/>
+
+![Snake animation](https://github.com/MohamedHakem/MohamedHakem/blob/output/github-contribution-grid-snake.svg)
 
   
 <!--
