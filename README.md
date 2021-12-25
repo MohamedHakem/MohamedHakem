@@ -1,16 +1,16 @@
 <!-- ### Hi there ✋! -->
 
 <div align="center"> 
-  <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> I'm Mohamed Hakem</h1>
-  <p>A React Developer from Cairo, Egypt.</p> 
-
+  <h1>Mohamed Hakem</h1>
+  <h3>Web Developer</h3> 
+  
   ![Snake animation](https://github.com/MohamedHakem/MohamedHakem/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 
   <div align="left">
   
-  ### Hi there 👋
+  ### Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 
   - 🌱 I’m currently learning ReactJS, in depth.
   - 👯 I’m looking to collaborate on any HTML, CSS or JavaScript and ReactJS related project.
