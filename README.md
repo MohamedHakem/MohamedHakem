@@ -54,4 +54,4 @@
      alt="Mohamed Hakem's wakatime stats"/>
 </a>
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/>
