@@ -13,7 +13,7 @@
   ### Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 
   - 🌱 I’m currently learning ReactJS, in depth.
-  - 👯 I’m looking to collaborate on any HTML, CSS or JavaScript and ReactJS related project.
+  - 👯 I’m looking to collaborate on any JavaScript or ReactJS related project.
   - 📫 How to reach me: mohamedhakem959628@gmail.com, [Twitter](https://twitter.com/mohamedhakem_se) and [Linkedin](https://www.linkedin.com/in/mohamed-hakem-se)
   - Here's some cool stats:
   
