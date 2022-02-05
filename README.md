@@ -12,9 +12,9 @@
   
   ### Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 
-  - 🌱 I’m currently learning ReactJS, in depth.
+  - 🌱 I’m currently learning ReactJS and NextJS, in depth.
   - 👯 I’m looking to collaborate on any JavaScript or ReactJS related project.
-  - 📫 How to reach me: mohamedhakem959628@gmail.com, [Twitter](https://twitter.com/mohamedhakem_se) and [Linkedin](https://www.linkedin.com/in/mohamed-hakem-se)
+  - 📫 How to reach me: mohamedhakem959628@gmail.com, [Twitter](https://twitter.com/mh_kem) and [Linkedin](https://www.linkedin.com/in/mhdev)
   - Here's some cool stats:
   
   </div>
