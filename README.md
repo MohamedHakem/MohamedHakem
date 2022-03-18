@@ -3,8 +3,6 @@
 <div align="center"> 
   <h1>Mohamed Hakem</h1>
   <h3>Web Developer</h3> 
-  
-  ![Snake animation](https://github.com/MohamedHakem/MohamedHakem/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 
@@ -55,3 +53,5 @@
 </a>
 
 <br/><br/>
+  
+![Snake animation](https://github.com/MohamedHakem/MohamedHakem/blob/output/github-contribution-grid-snake.svg)
