@@ -1,5 +1,37 @@
-<!-- ### Hi there ✋! -->
+Hi 👋 My name is Mohamed Hakem
+==============================
 
+A Software Developer
+--------------------
+
+I've been learning and coding for four years, recently, I got accepted into Software Engineering University, and I'm starting next year!
+
+*   🌍  I'm based in Egypt
+*   🖥️  See my portfolio at [GitHub](http://github.com/mohamedhakem)
+*   ✉️  You can contact me at [mohamedhakem11111@gmail.com](mailto:mohamedhakem11111@gmail.com)
+*   🚀  I'm currently working on [My Portfolio](http://github.com/mohamedhakem)
+*   🧠  I'm learning Next.js & Node.js
+*   🤝  I'm open to collaborating on React/Next.js SaaS products, or open-source Projects.
+*   ⚡  I'm secretly Spiderman... but don't tell anyone.
+
+## Skills
+
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="NextJs" /></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="TailwindCSS" /></a> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" height="36" alt="Redux" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase" /></a></p>
+
+
+## Socials
+
+<p align="left"><a href="https://www.github.com/mohamedhakem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://@hakem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mhdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mh_kem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+## Support Me 
+<a href="https://www.buymeacoffee.com/hakem"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+
+
+
+<!-- ### Hi there ✋! -->
+<!-- 
 <div align="center"> 
   <h1>Mohamed Hakem</h1>
   <h3>Web Developer</h3> 
@@ -12,13 +44,14 @@
 
   - 🌱 I’m currently learning ReactJS and NextJS, in depth.
   - 👯 I’m looking to collaborate on any JavaScript or ReactJS related project.
-  - 📫 How to reach me: mohamedhakem959628@gmail.com, [Twitter](https://twitter.com/mh_kem) and [Linkedin](https://www.linkedin.com/in/mhdev)
-  - Here's some cool stats:
+  - 📫 How to reach me: mohamedhakem959628@gmail.com, [Twitter](https://twitter.com/mh_kem) and [Linkedin](https://www.linkedin.com/in/mhdev) -->
+  
+ ## Some cool stats:
   
   </div>
 </div>
 
-<br/><br/>
+<br/>
 
 <a href="https://app.daily.dev/mohamedhakem">
     <img src="https://api.daily.dev/devcards/6383c6c5e45d4792b8560faf61db4477.png?r=u9b" 
