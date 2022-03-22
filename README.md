@@ -4,15 +4,49 @@ Hi 👋 My name is Mohamed Hakem
 A Software Developer
 --------------------
 
-I've been learning and coding for four years, recently, I got accepted into Software Engineering University, and I'm starting next year!
+<!-- I've been learning and coding for four years, recently, I got accepted into Software Engineering University, and I'm starting next year! -->
 
-*   🌍  I'm based in Egypt
+<!-- *   🌍  I'm based in Egypt 
 *   🖥️  See my portfolio at [GitHub](http://github.com/mohamedhakem)
 *   ✉️  You can contact me at [mohamedhakem959628@gmail.com](mailto:mohamedhakem11111@gmail.com)
 *   🚀  I'm currently working on [My Portfolio](http://github.com/mohamedhakem)
 *   🧠  I'm learning Next.js & Node.js
 *   🤝  I'm open to collaborating on React/Next.js SaaS products, or open-source Projects.
 *   ⚡  I'm secretly Spiderman... but don't tell anyone.
+ -->
+Hi 👋 I'm a Software Engineering student at Helwan University, I've been learning and coding for 4 years. I have experience working 💼 with: 
+
+* 🧰 Frameworks:  React ecosystem, Next.js 
+* 🔄 State Management:  Redux,  Recoil,  Context and useState hooks
+* ✅ Authentication:  Next-Auth,   Firebase  
+* ʕ•́ᴥ•̀ʔっ Style:  Pure CSS,  TailwindCSS,   Material-UI
+* ☁️ Cloud/Infrastructure:  AWS,   Firebase 
+* 📜 CMS:  GraphCMS,  WordPress
+* 🔃 Version Control: GIT + GitHub
+* 🚀 Deployment: Vercel, GitHub, AWS
+* I speak: JavaScript, Python, SQL, ➗ Maths, English and Arabic
+* I'm currently:  
+
+   🧠  Learning Next.js & Node.js, in-depth
+
+   🚀  Building my portfolio 
+
+   ✍ Writing my first article
+
+   🤝  Open to collaborate on any React/Next.js projects (💡 open-source are welcome) 
+
+   📘   Reading "You Don't Know JavaScript" book series (YDKJS)
+
+   🎯  Job Hunting, If you have a new adventure for me, DM me. (Thank you 🙏)
+
+   🖥️  See my code at ➡️ GitHub.com/mohamedhakem
+
+   👨‍💻  See my problem-solving scores at ➡️    hackerrank.com/mohamedhakem 
+
+   ✉️  You can contact me at ➡️  mohamedhakem959628@gmail.com
+
+    🪑  Do Chairs Exist? ➡️ youtube.com/watch?v=fXW-QjBsruE
+
 
 ## Skills
 
