@@ -27,17 +27,17 @@ Hi 👋 I'm a Software Engineering student at Helwan University, I've been learn
 * I speak: JavaScript, Python, SQL, ➗ Maths, English and Arabic
 * I'm currently:  
 
-   🧠  Learning Next.js & Node.js, in-depth
+   🧠  Learning Node.js, in-depth
 
    🚀  Building my portfolio 
 
-   ✍ Writing my first article
+   ✍  Solving one Algorithms/DS problem everyday
 
    🤝  Open to collaborate on any React/Next.js projects (💡 open-source are welcome) 
 
    📘   Reading "You Don't Know JavaScript" book series (YDKJS)
 
-   🎯  Job Hunting, If you have a new adventure for me, DM me. (Thank you 🙏)
+   🎯  Job Hunting, If you have a new adventure for me, DM me. Thanks!
 
    🖥️  See my code at ➡️ GitHub.com/mohamedhakem
 
