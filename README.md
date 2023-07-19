@@ -4,7 +4,12 @@ Hi 👋 My name is Mohamed Hakem
 A Software Developer
 --------------------
 
-<!-- I've been learning and coding for four years, recently, I got accepted into Software Engineering University, and I'm starting next year! -->
+<!-- I've been learning and coding for four years, recently, I got accepted into Software Engineering University, and I'm starting next year! 
+
+Hi 👋 I'm a Software Engineering student at Helwan University, I've been learning and coding for 4 years.
+
+* 🚀  Building my portfolio 
+-->
 
 <!-- *   🌍  I'm based in Egypt 
 *   🖥️  See my portfolio at [GitHub](http://github.com/mohamedhakem)
@@ -14,38 +19,38 @@ A Software Developer
 *   🤝  I'm open to collaborating on React/Next.js SaaS products, or open-source Projects.
 *   ⚡  I'm secretly Spiderman... but don't tell anyone.
  -->
-Hi 👋 I'm a Software Engineering student at Helwan University, I've been learning and coding for 4 years. I have experience working 💼 with: 
 
-* 🧰 Frameworks:  React ecosystem, Next.js 
-* 🔄 State Management:  Redux,  Recoil,  Context and useState hooks
+
+I'm a software developer with a passion for building innovative solutions. I have a strong track record of success in delivering high-quality software on time and within budget. I'm also an excellent communicator and team player.
+
+I'm a Rising Talent on Upwork, where I have achieved a 100% satisfaction rate with 5-star positive feedback on all contracts, led 110 hours of Full Stack (NextJS) development, 183 hours as a Lead Developer, and 155+ hours as a Senior Frontend React Developer.
+
+ I have experience working with: 
+
+* 🧰 Frameworks:  React, Next.js ecosystem 
+* 🔄 State Management:  Redux,  Recoil,  Context and hooks
 * ✅ Authentication:  Next-Auth,   Firebase  
-* ʕ•́ᴥ•̀ʔっ Style:  Pure CSS,  TailwindCSS,   Material-UI
-* ☁️ Cloud/Infrastructure:  AWS,   Firebase 
-* 📜 CMS:  GraphCMS,  WordPress
-* 🔃 Version Control: GIT + GitHub
+*   Style: Pure CSS, TailwindCSS, Shadcn, React-Bootstrap, Material-UI
+* ☁️ Cloud/Infrastructure:  Vercel, Netlify, AWS, Firebase 
+* 📜 CMS: WordPress, Sanity.io, GraphCMS
+* 🔃 Version Control: Git and GitHub
 * 🚀 Deployment: Vercel, GitHub, AWS
-* I speak: JavaScript, Python, SQL, ➗ Maths, English and Arabic
-* I'm currently:  
+* Languages: JavaScript, Typescript, Python, SQL, (plus, Fluent in English and Arabic - Maths!)
 
-   🧠  Learning Node.js, in-depth
+I'm currently:  
+ * 🧠  Learning Node.js, in-depth  
+ * ✍  Solving Algorithms/Data Structure problems
+ * 🤝  Collaborate on React/Next.js projects 
+ * 📘   Reading "You Don't Know JavaScript" book series (YDKJS)
+ * 🖥️  See my code at ➡️ GitHub.com/mohamedhakem
+ * 👨‍💻  See my problem-solving at ➡️    hackerrank.com/mohamedhakem 
+ * 🎯  Job Hunting, If you have a new adventure for me, DM me 
+https://www.linkedin.com/in/m-hakem 
+ * ✉️  You can contact me at ➡️  mohamedhakem959628@gmail.com
 
-   🚀  Building my portfolio 
+Thanks!
 
-   ✍  Solving one Algorithms/DS problem everyday
-
-   🤝  Open to collaborate on any React/Next.js projects (💡 open-source are welcome) 
-
-   📘   Reading "You Don't Know JavaScript" book series (YDKJS)
-
-   🎯  Job Hunting, If you have a new adventure for me, DM me. Thanks!
-
-   🖥️  See my code at ➡️ GitHub.com/mohamedhakem
-
-   👨‍💻  See my problem-solving scores at ➡️    hackerrank.com/mohamedhakem 
-
-   ✉️  You can contact me at ➡️  mohamedhakem959628@gmail.com
-
-    🪑  Do Chairs Exist? ➡️ youtube.com/watch?v=fXW-QjBsruE
+   🪑  Do Chairs Exist? ➡️ youtube.com/watch?v=fXW-QjBsruE
 
 
 ## Skills
