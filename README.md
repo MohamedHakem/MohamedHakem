@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohamed Hakem
 ==============================
 
-A Software Developer
+Software Developer
 --------------------
 
 <!-- I've been learning and coding for four years, recently, I got accepted into Software Engineering University, and I'm starting next year! 
@@ -21,36 +21,39 @@ Hi 👋 I'm a Software Engineering student at Helwan University, I've been learn
  -->
 
 
-I'm a software developer with a passion for building innovative solutions. I have a strong track record of success in delivering high-quality software on time and within budget. I'm also an excellent communicator and team player.
+I'm a software developer with a passion for building innovative solutions. I have a strong track record of success in delivering high-quality software on time and within budget.
 
-I'm a Rising Talent on Upwork, where I have achieved a 100% satisfaction rate with 5-star positive feedback on all contracts, led 110 hours of Full Stack (NextJS) development, 183 hours as a Lead Developer, and 155+ hours as a Senior Frontend React Developer.
+Upwork Profile 
+https://www.upwork.com/freelancers/~01675da7684c6193a5
+With 100% Job Success Score and all 5-star positive feedback on all my contracts on Upwork, I led 110 hours of Full Stack (NextJS) development, 183 hours as a Lead Developer, and 155+ hours as a Senior Frontend React Developer.
 
- I have experience working with: 
+Professional Experience:
 
-* 🧰 Frameworks:  React, Next.js ecosystem 
-* 🔄 State Management:  Redux,  Recoil,  Context and hooks
-* ✅ Authentication:  Next-Auth,   Firebase  
+* 🧰 Frameworks: React, Next.js ecosystem 
+* 🔄 State Management: Redux, Recoil,  Context and hooks
+* ✅ Authentication:  Next-Auth, Firebase  
 *   Style: Pure CSS, TailwindCSS, Shadcn, React-Bootstrap, Material-UI
-* ☁️ Cloud/Infrastructure:  Vercel, Netlify, AWS, Firebase 
+* ☁️ Cloud/Infrastructure/Deployments: Vercel, GitHub, AWS, Netlify, Firebase 
 * 📜 CMS: WordPress, Sanity.io, GraphCMS
 * 🔃 Version Control: Git and GitHub
-* 🚀 Deployment: Vercel, GitHub, AWS
 * Languages: JavaScript, Typescript, Python, SQL, (plus, Fluent in English and Arabic - Maths!)
 
 I'm currently:  
- * 🧠  Learning Node.js, in-depth  
+ * 🧠  Learning Rust, and more in-depth Node.js  
  * ✍  Solving Algorithms/Data Structure problems
  * 🤝  Collaborate on React/Next.js projects 
  * 📘   Reading "You Don't Know JavaScript" book series (YDKJS)
+
+You can: 
  * 🖥️  See my code at ➡️ GitHub.com/mohamedhakem
  * 👨‍💻  See my problem-solving at ➡️    hackerrank.com/mohamedhakem 
  * 🎯  Job Hunting, If you have a new adventure for me, DM me 
 https://www.linkedin.com/in/m-hakem 
- * ✉️  You can contact me at ➡️  mohamedhakem959628@gmail.com
+ * Say hi, offer me a job, or even ask for my help, on Linkedin or email
+ * ✉️  Contact me at ➡️  mohamedhakem959628@gmail.com
 
-Thanks!
 
-   🪑  Do Chairs Exist? ➡️ youtube.com/watch?v=fXW-QjBsruE
+And if you're wondering: 🪑  Do Chairs Exist? ➡️ youtube.com/watch?v=fXW-QjBsruE
 
 
 ## Skills
@@ -62,8 +65,7 @@ Thanks!
 
 <p align="left"><a href="https://www.github.com/mohamedhakem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <!-- <a href="https://@hakem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>  -->
-<a href="https://www.linkedin.com/in/ywkem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://www.twitter.com/ywkem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/m-hakem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 
 
 <!-- ### Hi there ✋! -->
