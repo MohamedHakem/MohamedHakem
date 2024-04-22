@@ -124,5 +124,6 @@ And if you're wondering: 🪑  Do Chairs Exist? ➡️ youtube.com/watch?v=fXW-Q
 </a>
 
 <br/><br/>
-  
+<!--  
 ![Snake animation](https://github.com/MohamedHakem/MohamedHakem/blob/output/github-contribution-grid-snake.svg)
+-->
