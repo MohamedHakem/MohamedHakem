@@ -1,4 +1,4 @@
-**Software Developer | [AWS Certified](https://www.credly.com/badges/9cf407ee-b9a4-48d6-9358-bc15b894b715) | [Manara Ambassador](https://manara.tech/)  | Community Builder**  
-- Building [**Slty**](https://slty.vercel.app/): An Etsy & Shopify-inspired platform helping social media and physical store sellers transition to powerful e-commerce stores, serving my **32k-member** e-commerce community
-- Creator of [**Klist**](https://hakem.vercel.app/klist): The evovled version of the LeetCode Blind 75, featuring **170+** pattern-focused questions, company badges, custom & sharable lists, advanced search/filters/groupings, spaced repetition, and progress/streak tracking.
+**Software Developer  |  [AWS Certified](https://www.credly.com/badges/9cf407ee-b9a4-48d6-9358-bc15b894b715)  |  [Manara Ambassador](https://manara.tech/)   |  Community Builder**  
+- Building [**Slty**](https://slty.vercel.app/): A Shopify-inspired platform helping social media sellers and physical store owners set up powerful e-commerce stores, serving my online community (**32k+**)
+- Creator of [**Klist**](https://hakem.vercel.app/klist): The evolved LeetCode Blind 75 with 170+ pattern-focused questions, company badges, custom lists, search/filters/groupings, spaced repetition, and progress tracking.
 - Teaching weekly **live sessions** on Cloud Computing, LeetCode patterns & DSA to 100s across [Manara](https://thisismanara.circle.so/) (**28k+** students), my DSA & AWS groups (**600+**), and YouTube.
